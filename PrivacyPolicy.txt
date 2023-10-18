@@ -2,10 +2,8 @@
 
 We do not collect or store any information about our users in the course of our application.  
 
-We utilize third party APIs to serve advertisements.  Your information may be collected and used for Analytics related to Advertisements in accordance with the associated privacy policies, linked below:
+We utilize third party API to serve advertisements, we have not directed this API to collect user data related to advertising.  The privacy policy for this API is linked below:
 
-- UnityAds: https://unity.com/legal/game-player-and-app-user-privacy-policy
-- IronSource: https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
 - Google AdMob: https://support.google.com/admob/answer/6128543?hl=en
 
 This Analytics Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, and other statistics.
